@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheifaikee.juanitoalvaro.com/sitemap.xml
